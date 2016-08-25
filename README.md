@@ -8,3 +8,4 @@ Pós Graduação em Engenharia de Software
 editado na Branch-Exercício 4
 
 Editando copia de trabalho - Ex 5 - Eclipse
+Conflito
